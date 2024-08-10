@@ -39,3 +39,5 @@ export function createApp() {
 // #endif
 
 //项目vue2 ，微信基础库3.4.10
+
+//https://www.php.cn/faq/528559.html
